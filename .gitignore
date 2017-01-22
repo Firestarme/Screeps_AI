@@ -1,3 +1,7 @@
+#Project dependencies
+lodash/
+ScreepsAutocomplete/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
